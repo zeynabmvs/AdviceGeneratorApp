@@ -107,10 +107,11 @@ input:focus {
 }
 
 .attribution {
+    color: $grayishBlue;
     font-size: rem(11);
     text-align: center;
 }
 
 .attribution a {
-    color: hsl(228, 45%, 44%);
+    color: $neonGreen;
 }
