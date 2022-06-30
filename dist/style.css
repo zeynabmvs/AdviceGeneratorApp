@@ -160,8 +160,10 @@ body .main .advice_card .dice_icon {
   transition: all 150ms ease-in-out;
   cursor: pointer;
 }
-body .main .advice_card .dice_icon:hover {
-  box-shadow: 0px 0px 16px 4px hsl(150deg, 100%, 66%);
+@media (hover: hover) {
+  body .main .advice_card .dice_icon:hover {
+    box-shadow: 0px 0px 16px 4px hsl(150deg, 100%, 66%);
+  }
 }
 body .main .advice_card .dice_icon svg {
   position: absolute;
