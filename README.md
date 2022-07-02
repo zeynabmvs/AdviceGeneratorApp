@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/zeynabmvs/AdviceGeneratorApp)
-- Live Site URL: [](https://advicegeneratorapp-4zj.pages.dev/m)
+- Solution URL: [Code On Github](https://github.com/zeynabmvs/AdviceGeneratorApp)
+- Live Site URL: [Live site](https://advicegeneratorapp-4zj.pages.dev/m)
 
 ## My process
 
