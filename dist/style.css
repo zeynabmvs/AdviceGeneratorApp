@@ -120,7 +120,7 @@ body {
 }
 body .main {
   position: relative;
-  height: 100vh;
+  height: 95vh;
   padding: 0.625rem;
 }
 body .main .advice_card {
